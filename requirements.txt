@@ -1,0 +1,10 @@
+web3
+alchemy-sdk
+pandas
+numpy
+scikit-learn
+fastapi
+uvicorn
+openai
+flask
+flask-socketio
